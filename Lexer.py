@@ -1,5 +1,5 @@
 """
-pascal_compiler/lexer.py
+Micro-Pascal-Compiler/lexer.py
 ========================
 Single-pass lexer for subset-Pascal.
 
