@@ -1,5 +1,5 @@
 """
-pascal_compiler/parser.py
+Micro-Pascal-Compiler/parser.py
 =========================
 Recursive-descent parser + symbol table for subset-Pascal.
 
