@@ -1,5 +1,5 @@
 """
-pascal_compiler/codegen.py
+Micro-Pascal-Compiler/codegen.py
 ==========================
 X86-64 NASM code generator for subset-Pascal.
 
