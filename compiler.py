@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-pascal_compiler/compile.py
+Micro-Pascal-Compiler/compile.py
 ==========================
 Command-line driver.  Glues Lexer → Parser → CodeGenerator.
 
